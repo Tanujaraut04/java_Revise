@@ -1,4 +1,4 @@
-/*Method consider hote*/
+/*Method consider hote beacause of returntype*/
 class Demo{
 	public static void main(String[]args){
 		Student s = new Student();
